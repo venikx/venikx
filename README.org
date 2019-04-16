@@ -1,0 +1,10 @@
+#+TITLE: Package for venikx' contact information
+#+AUTHOR: venikx
+#+STARTUP: hideblocks
+
+* venikx
+This is just a way to easily get my contact info from the command line. Shamelessly forked
+from the wonderful [[https://github.com/searls/searls][Justin Searls]].
+
+** Usage
+   ~$ npm install venikx~

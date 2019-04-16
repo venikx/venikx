@@ -1,0 +1,18 @@
+{
+  "name": "venikx",
+  "version": "0.0.1",
+  "description": "Venikx' contact info",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "repository": "venikx/venikx",
+  "keywords": [
+    "person",
+    "contact",
+    "venikx",
+    "_venikx"
+  ],
+  "author": "venikx <me@venikx.com>",
+  "license": "GPL-3.0"
+}
