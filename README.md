@@ -7,12 +7,12 @@
 
 Freelance Web Developer with a glorious passion for video games. Based in the cold, but beautiful [Helsinki, Finland](https://www.openstreetmap.org/node/25474663#map=16/60.1718/24.9413). 
 
-I am an experienced **Frontend Developer** who beliefs every tool, library and framework has their time and place. Currently I have mainly worked with **ReactJS, Gatsby, Angular(2+), VueJS, NodeJS, RxJS, GraphQL, D3.js and Figma**.
+I am an experienced **Frontend Developer** who beliefs every tool, library and framework has their time and place. Currently, I have mainly worked with **ReactJS, Gatsby, Angular(2+), VueJS, NodeJS, RxJS, GraphQL, D3.js and Figma**.
 
 
-- 🔭 I’m currently **looking for work** as a **freelance** web developer
-- 🌱 I’m currently toying with **SvelteJS**, trying out **Shopify** integrations and learning **C/C++**
-- 👯 I’m looking to collaborate on **video game** projects
+- 🔭 I’m **looking for work** as a **freelance** web developer
+- 🌱 I’m toying with **SvelteJS**, trying out **Shopify** integrations and learning **C/C++**
+- 👯 I’m would like to collaborate on **video game** projects
 - 😎 I stream **Rocket League**, **Divnity: Original Sin 2** and **Science & Technology** on [Twitch](https://www.twitch.tv/venikx_)
 
 ## 📫 Get in Touch
