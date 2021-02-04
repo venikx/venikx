@@ -29,6 +29,6 @@ I am an experienced **Frontend Developer** who beliefs every tool, library and f
 ---
 
 This is just a way to easily get my contact info from the command line. Shamelessly forked
-from the wonderful [[https://github.com/searls/searls][Justin Searls]].
+from the wonderful [Justin Searls](https://github.com/searls/searls).
 
 `$ npm install venikx`
