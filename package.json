@@ -1,7 +1,7 @@
 {
   "name": "venikx",
-  "version": "0.0.1",
-  "description": "Venikx' contact info",
+  "version": "1.0.0",
+  "description": "Kevin Rangel's contact information",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat info.json"
@@ -11,8 +11,8 @@
     "person",
     "contact",
     "venikx",
-    "_venikx"
+    "_venikx",
   ],
-  "author": "venikx <me@venikx.com>",
+  "author": "venikx <contact@venikx.com>",
   "license": "GPL-3.0"
 }
