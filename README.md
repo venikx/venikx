@@ -10,7 +10,7 @@ Freelance Web Developer with a glorious passion for video games. Based in the co
 I am an experienced **Frontend Developer** who beliefs every tool, library and framework has their time and place. Currently, I have mainly worked with **ReactJS, Gatsby, Angular(2+), VueJS, NodeJS, RxJS, GraphQL, D3.js and Figma**.
 
 
-- 🔭 I’m **Looking for work** as a **freelance** web developer
+- 🔭 I’m **looking for work** as a **freelance** web developer
 - 🌱 I toy with **SvelteJS**, mess with **Shopify** integrations and am learning **C/C++**
 - 👯 I would like to collaborate on **video game** projects
 - 😎 I stream **Rocket League**, **Divnity: Original Sin 2** and **Science & Technology** on [Twitch](https://www.twitch.tv/venikx_)
