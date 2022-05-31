@@ -1,0 +1,69 @@
+#!/usr/bin/env bash
+
+###############################################
+# Write a nice business card on the terminal. #
+###############################################
+
+# ╭───────────────────────────────────────────────────────╮
+# │                                                       │
+# │           Kevin De Baerdemaeker / venikx              │
+# │                                                       │
+# │     Email:  code@venikx.com                           │
+# │      Work:  Independant Web Developer                 │
+# │       Web:  https://venikx.com/                       │
+# │                                                       │
+# │   Twitter:  https://twitter.com/_venikx               │
+# │       npm:  https://npmjs.com/venikx                  │
+# │    GitHub:  https://github.com/venikx                 │
+# │  LinkedIn:  https://linkedin.com/in/venikx            │
+# │                                                       │
+# ╰───────────────────────────────────────────────────────╯
+
+######################################
+# Font attributes, colors, bg colors #
+######################################
+#bg_black="$(tput setab 0)"
+#bg_blue="$(tput setab 4)"
+#bg_cyan="$(tput setab 6)"
+#bg_default="$(tput setab 9)"
+#bg_green="$(tput setab 2)"
+#bg_magenta="$(tput setab 5)"
+#bg_red="$(tput setab 1)"
+#bg_white="$(tput setab 7)"
+#bg_yellow="$(tput setab 3)"
+#black="$(tput setaf 0)"
+#blink="$(tput blink)"
+#default="$(tput setaf 9)"
+#end_underline="$(tput rmul)"
+#hidden="$(tput invis)"
+#reverse="$(tput rev)"
+#white="$(tput setaf 7)"
+blue="$(tput setaf 4)"
+bold="$(tput bold)"
+cyan="$(tput setaf 6)"
+dim="$(tput dim)"
+green="$(tput setaf 2)"
+magenta="$(tput setaf 5)"
+red="$(tput setaf 1)"
+reset="$(tput sgr0)"
+underline="$(tput smul)"
+yellow="$(tput setaf 3)"
+
+cat <<EOF
+${cyan}╭─────────────────────────────────────────────────────────────────╮
+${cyan}│                                                                 │
+${cyan}│${reset}           ${bold}${cyan}Kevin De Baerdemaeker / venikx${reset}                        ${cyan}│
+${cyan}│                                                                 │
+${cyan}│${reset}     ${underline}${bold}Email:${reset}  ${magenta}code@venikx.com                                     ${cyan}│
+${cyan}│${reset}      ${underline}${bold}Work:${reset}  ${red}Independant Web Developer                           ${cyan}│
+${cyan}│${reset}       ${underline}${bold}Web:${reset}  ${dim}https://www.${reset}${cyan}venikx.com                              ${cyan}│
+${cyan}│                                                                 │
+${cyan}│${reset}   ${underline}${bold}Twitter:${reset}  ${dim}https://twitter.com/${reset}${blue}_venikx                         ${cyan}│
+${cyan}│${reset}    ${underline}${bold}Twitch:${reset}  ${dim}https://www.twitch.tv/${reset}${magenta}venikx_                       ${cyan}│
+${cyan}│${reset}    ${underline}${bold}GitHub:${reset}  ${dim}https://github.com/${reset}${green}venikx                           ${cyan}│
+${cyan}│${reset}  ${underline}${bold}LinkedIn:${reset}  ${dim}https://linkedin.com/in/${reset}${blue}venikx                      ${cyan}│
+${cyan}│                                                                 │
+${cyan}│${reset}      ${underline}${bold}Card Inspiration:${reset}  ${yellow}curl -sL bit.ly/2zvxUbd | sh            ${cyan}│
+${cyan}│                                                                 │
+${cyan}╰─────────────────────────────────────────────────────────────────╯
+EOF
