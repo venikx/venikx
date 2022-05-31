@@ -1,11 +1,12 @@
 {
   "name": "venikx",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Kevin De Baerdemaeker as an NPM package",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "npm run info",
+    "info": "cat info.json"
   },
   "repository": "venikx/venikx",
   "keywords": [
@@ -16,5 +17,5 @@
     "business card"
   ],
   "author": "venikx <contact@venikx.com>",
-  "license": "GPL-3.0"
+  "license": "MIT"
 }
