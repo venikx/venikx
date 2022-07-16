@@ -6,8 +6,19 @@
   "type": "module",
   "scripts": {
     "postinstall": "npm run info",
-    "info": "cat info.json"
+    "info": "node index.js",
+    "prepare": "husky install"
   },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "engines": {
+    "node": "16",
+    "npm": "8"
+  },
+  "os": [
+    "!win32"
+  ],
   "repository": "venikx/venikx",
   "keywords": [
     "person",
@@ -17,5 +28,10 @@
     "business card"
   ],
   "author": "venikx <contact@venikx.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
+    "prettier": "2.7.1"
+  }
 }
