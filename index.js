@@ -1,10 +1,16 @@
-import fs from 'fs'
+import util from "util";
+import { exec as execC } from "child_process";
 
-fs.readFile('./info.json', 'utf8', logInfo)
+const exec = util.promisify(execC);
+const command =
+  "curl -sL https://raw.githubusercontent.com/venikx/venikx/master/business-card | sh";
 
-function logInfo(err, data) {
-  if (err) {
-    return console.error(err);
-  }
-  console.info(data);
-}
+exec(command)
+  .then(({ stdout, stderr }) => {
+    if (stderr) {
+      throw new Error(stderr);
+    } else {
+      console.error(stdout);
+    }
+  })
+  .catch(console.error);
