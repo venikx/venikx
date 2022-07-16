@@ -9,6 +9,11 @@
     "info": "node index.js",
     "prepare": "husky install"
   },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
   },
