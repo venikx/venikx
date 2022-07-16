@@ -27,7 +27,7 @@
     "_venikx",
     "business card"
   ],
-  "author": "venikx <contact@venikx.com>",
+  "author": "venikx <code@venikx.com>",
   "license": "MIT",
   "devDependencies": {
     "husky": "^8.0.1",
