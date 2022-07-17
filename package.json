@@ -5,9 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "postinstall": "npm run info",
-    "info": "node index.js",
     "prepare": "husky install"
+  },
+  "bin": {
+    "venikx": "index.js"
   },
   "release": {
     "branches": [

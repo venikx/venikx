@@ -1,9 +1,10 @@
+#!/usr/bin/env node
+
 import util from "util";
 import { exec as execC } from "child_process";
 
 const exec = util.promisify(execC);
-const command =
-  "curl -sL https://raw.githubusercontent.com/venikx/venikx/master/business-card | sh";
+const command = "./business-card";
 
 exec(command)
   .then(({ stdout, stderr }) => {
