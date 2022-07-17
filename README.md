@@ -24,13 +24,14 @@ and diving deeper into design systems.
 
 - Email: code@venikx.com
 - Web: [venikx.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- Twitter: [@_venikx](https://twitter.com/_venikx)
-- Twitch: [venikx_](https://www.twitch.tv/venikx_)
+- Twitter: [@\_venikx](https://twitter.com/_venikx)
+- Twitch: [venikx\_](https://www.twitch.tv/venikx_)
 - LinkedIn: [venikx](https://www.linkedin.com/in/venikx/)
 
 ## Or download me
-- cURL: `$ curl -sL https://raw.githubusercontent.com/venikx/venikx/master/business-card | sh` 
-- npm: `$ npm install venikx`
+
+- cURL: `$ curl -sL https://raw.githubusercontent.com/venikx/venikx/master/business-card | sh`
+- npm: `$ npx venikx`
 
 ![Kevin Rangel's stats stats](https://github-readme-stats.vercel.app/api?username=venikx&show_icons=true&theme=radical&include_all_commits=true)
 ![Kevin Rangel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venikx&layout=compact)
@@ -38,5 +39,6 @@ and diving deeper into design systems.
 ---
 
 Shamelessly plucked from:
+
 - [Justin Searls](https://github.com/searls/searls)
 - [Bryan Jenks](https://github.com/tallguyjenks/BusinessCard)
