@@ -9,10 +9,9 @@
 # │           Kevin De Baerdemaeker / venikx              │
 # │                                                       │
 # │     Email:  code@venikx.com                           │
-# │      Work:  Independant Web Developer                 │
+# │      Work:  Full-Stack Web Developer                  │
 # │       Web:  https://venikx.com/                       │
 # │                                                       │
-# │   Twitter:  https://twitter.com/_venikx               │
 # │       npm:  https://npmjs.com/venikx                  │
 # │    GitHub:  https://github.com/venikx                 │
 # │  LinkedIn:  https://linkedin.com/in/venikx            │
@@ -55,11 +54,9 @@ ${cyan}│                                                                 │
 ${cyan}│${reset}           ${bold}${cyan}Kevin De Baerdemaeker / venikx${reset}                        ${cyan}│
 ${cyan}│                                                                 │
 ${cyan}│${reset}     ${underline}${bold}Email:${reset}  ${magenta}code@venikx.com                                     ${cyan}│
-${cyan}│${reset}      ${underline}${bold}Work:${reset}  ${red}Independent Web Developer                           ${cyan}│
+${cyan}│${reset}      ${underline}${bold}Work:${reset}  ${red}Full-Stack Web Developer                            ${cyan}│
 ${cyan}│${reset}       ${underline}${bold}Web:${reset}  ${dim}https://www.${reset}${cyan}venikx.com                              ${cyan}│
 ${cyan}│                                                                 │
-${cyan}│${reset}   ${underline}${bold}Twitter:${reset}  ${dim}https://twitter.com/${reset}${blue}_venikx                         ${cyan}│
-${cyan}│${reset}    ${underline}${bold}Twitch:${reset}  ${dim}https://www.twitch.tv/${reset}${magenta}venikx_                       ${cyan}│
 ${cyan}│${reset}    ${underline}${bold}GitHub:${reset}  ${dim}https://github.com/${reset}${green}venikx                           ${cyan}│
 ${cyan}│${reset}  ${underline}${bold}LinkedIn:${reset}  ${dim}https://linkedin.com/in/${reset}${blue}venikx                      ${cyan}│
 ${cyan}│                                                                 │
