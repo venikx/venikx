@@ -29,7 +29,6 @@ and diving deeper into design systems.
 - cURL: `$ curl -sL https://raw.githubusercontent.com/venikx/venikx/master/business-card | sh`
 - npm: `$ npx venikx`
 
-![Kevin's stats stats](https://github-readme-stats.vercel.app/api?username=venikx&show_icons=true&theme=radical&include_all_commits=true)
 ![Kevin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venikx&layout=compact)
 
 ---
