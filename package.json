@@ -1,6 +1,6 @@
 {
   "name": "venikx",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Kevin De Baerdemaeker as an NPM package",
   "main": "index.js",
   "type": "module",
