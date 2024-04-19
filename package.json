@@ -4,6 +4,9 @@
   "description": "Kevin De Baerdemaeker as an NPM package",
   "main": "index.js",
   "type": "module",
+  "files": [
+    "business-card"
+  ],
   "scripts": {
     "prepare": "husky install"
   },
@@ -20,8 +23,8 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "engines": {
-    "node": "16",
-    "npm": "8"
+    "node": "20",
+    "npm": "10"
   },
   "os": [
     "!win32"
