@@ -12,7 +12,7 @@
     "release": "changeset publish"
   },
   "bin": {
-    "venikx": "index.js"
+    "venikx": "./business-card"
   },
   "release": {
     "branches": [
