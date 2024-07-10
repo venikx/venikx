@@ -1,10 +1,5 @@
 # Howdy, I'm Kevin 🤠
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-black?style=flat-squre&labelColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-black?style=flat-squre&labelColor=007acc)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-black?style=flat-squre&labelColor=e54c21)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-black?style=flat-squre&labelColor=214ce5)
-
 I'm an experienced **Full-Stack Web Developer**, based in the cold, but
 beautiful [Helsinki, Finland][1]. Currently I'm **looking for contract work** as
 an **independent** full-stack developer, but open to employment for the right
