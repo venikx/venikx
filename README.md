@@ -5,12 +5,12 @@ beautiful [Helsinki, Finland][1]. Currently I'm **looking for contract work** as
 an **independent** full-stack developer, but open to employment for the right
 company.
 
-- why you'd hire me: Typescript, Next.js (React.js), AWS, NodeJS, Postgres,
+- 🧑‍💻 why you'd hire me: Typescript, Next.js (React.js), AWS, NodeJS, Postgres,
   HTMX, D3.js, Astro
-- always talking about: photography, NixOS, gaming, Emacs, my homelab
-- learning: graphics programming (no, it's not going well), golang (noice)
+- 💭 always thinking about: photography, NixOS, gaming, Emacs, my homelab
+- 📚 learning: graphics programming (no, it's not going well), golang (noice)
 
-## 👔 Download my Business Card
+## 🪪 Download my Business Card
 
 By using good ol' cURL:
 
