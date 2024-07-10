@@ -5,10 +5,10 @@ beautiful [Helsinki, Finland][1]. Currently I'm **looking for contract work** as
 an **independent** full-stack developer, but open to employment for the right
 company.
 
-- 🧑‍💻 why you'd hire me: Typescript, Next.js (React.js), AWS, NodeJS, Postgres,
+- 🧑‍💻 _**why you'd hire me:**_ Typescript, Next.js (React.js), AWS, NodeJS, Postgres,
   HTMX, D3.js, Astro
-- 💭 always thinking about: photography, NixOS, gaming, Emacs, my homelab
-- 📚 learning: graphics programming (no, it's not going well), golang (noice)
+- _**💭 always thinking about:**_ photography, NixOS, gaming, Emacs, my homelab
+- 📚 _**learning:**_ graphics programming (no, it's not going well), golang (noice)
 
 ## 🪪 Download my Business Card
 
@@ -29,8 +29,6 @@ npx venikx
 - email: code@venikx.com
 - website: [venikx.com](https://venikx.com)
 - resume: [venikx](https://www.linkedin.com/in/venikx/)
-
-![Kevin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venikx&layout=compact)
 
 ---
 
